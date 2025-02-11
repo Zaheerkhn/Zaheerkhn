@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zaheer Khan</h1>
-<h3 align="center">I'm a passionate tech enthusiast and machine learning practitioner, driven by a love for building innovative applications and solving complex problems using cutting-edge AI tools and technologies.</h3>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=Tech+Enthusiast;AI+Innovator;Generative+AI+Explorer;Machine+Learning+Engineer" />
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zaheerkhn&label=Profile%20views&color=0e75b6&style=flat" alt="zaheerkhn" /> 
@@ -13,7 +16,7 @@
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Zaheerkhn?tab=repositories).  
 - 💬 Ask me about **Data Science, Machine Learning, Deep Learning, NLP, and GenAI**.  
 - 📫 How to reach me: **zaheerkhan00457@gmail.com**.  
-- � Open to collaborating on **AI-driven solutions**.  
+- 🚀 Open to collaborating on **AI-driven solutions**.  
 - 📖 Always exploring **new technologies** to enhance my skillset.  
 
 ---
@@ -21,22 +24,21 @@
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/106529944?s=200&v=4" alt="LangChain" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> &nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/106529944?s=200&v=4" alt="LangChain" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> &nbsp;
   <img src="https://banner2.cleanpng.com/20180829/qut/kisspng-flask-python-web-framework-representational-state-flask-stickker-1713946811244.webp" alt="flask" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/rlew631/rlew631/5fcb1cee69c8034bfa2b98aad94b584fcff8d84f/streamlit_red.svg" alt="streamlit" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> &nbsp;
 </p>
 
 ---
@@ -45,7 +47,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zaheerkhn&show_icons=true&locale=en" alt="zaheerkhn" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaheerkhn&" alt="zaheerkhn" />
 </p>
 
 <p align="center">
