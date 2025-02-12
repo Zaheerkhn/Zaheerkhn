@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning about **Generative AI and AI Agents**.  
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Zaheerkhn?tab=repositories).  
-- 💬 Ask me about **Data Science, Machine Learning, Deep Learning, NLP, and GenAI**.  
+- 💬 Ask me about **Data Science, Machine Learning, Deep Learning, NLP, and GenAI** or anything [here](https://github.com/Zaheerkhn/Zaheerkhn/issues).  
 - 📫 How to reach me: **zaheerkhan00457@gmail.com**.  
 - 🚀 Open to collaborating on **AI-driven solutions**.  
 - 📖 Always exploring **new technologies** to enhance my skillset.  
